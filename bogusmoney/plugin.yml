@@ -1,0 +1,11 @@
+name: BogusMoney
+main: net.bogusmoney.BogusMoney
+version: 1.0
+api-version: 1.13
+commands:
+   money:
+      usage: /money
+   bal:
+      usage: /bal
+   sellgold:
+      usage: /sellgold
